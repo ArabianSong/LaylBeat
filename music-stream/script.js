@@ -1,8 +1,8 @@
 let songs=[
 
 {
-title:"Dream Night",
-artist:"Zero",
+title:"أنت Zero,
+artist:"LaylBeat",
 file:"songs/song1.mp3",
 cover:"covers/song1.jpg",
 lyrics:"lyrics/song1.lrc"
@@ -43,7 +43,7 @@ audio.play()
 
 }
 
-function nextSong(){
+Night nextSong(){
 
 index++
 
