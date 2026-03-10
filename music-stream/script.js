@@ -1,8 +1,8 @@
 let songs=[
 
 {
-title:"أنت Zero,
-artist:"LaylBeat",
+title:"أنت النور",
+artist:"LalyBeat",
 file:"songs/song1.mp3",
 cover:"covers/song1.jpg",
 lyrics:"lyrics/song1.lrc"
